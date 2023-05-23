@@ -1,4 +1,4 @@
-### OlÃ¡! Me chamo Matheus Alves, seja bem vindo ao meu Perfil :) ðŸ¤š
+### Olá! Me chamo Matheus Alves, seja bem vindo ao meu Perfil :) ðŸ¤š
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/teoalvesdev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/theusalvesp)
 
