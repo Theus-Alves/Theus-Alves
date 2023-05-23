@@ -9,6 +9,6 @@
 
 Olá! :) Sou um estudante de Engenharia de Software ambicioso e motivado a crescer junto com a tecnologia. Tenho maior foco em Python e C#, mas busco constantemente aprender novas tecnologias como SQL, JavaScript, CSS, entre outros.
 Tenho me dedicado atualmente ao aprimoramento de minhas habilidades em desenvolvimento Web Full Stack e .NET Core, e me aventurando um pouco na criação de bots, RPA e Inteligência Artificial em geral.
-Meu objetivo é ser desenvolvedor Web, Desktop e Mobile Full Stack, e busco constantemente este intento por meio de minha carreira acadêmica e estudos independentes.
+Meu objetivo é ser desenvolvedor Web, Desktop e Mobile Full Stack, e busco constantemente o mesmo, por meio de minha carreira acadêmica e estudos independentes.
 
 ### [Email para contato: ](https://github.com/Theus-Alves)[teoalves.dev@gmail.com](mailto:teoalves.dev@gmail.com)
