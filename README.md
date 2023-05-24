@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Alves </h1>
-<h3 align="center">Python & C# Developer, Software Engineer Student</h3>
+<h3 align="center">Python / C# Developer & Software Engineer Student</h3>
 
 - 🔭 I’m currently working on [WEB_PortfolioResponsivo](https://github.com/Theus-Alves/WEB_PortfolioResponsivo.git)
 
@@ -22,4 +22,12 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=Theus-Alves&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Theus-Alves)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Theus-Alves&layout=compact&langs_count=7&theme=radical)](https://github.com/Theus-Alves)
 
+<h3 align="left">About:</h3>
+<p align="left">
+  #### Olá :) sou um estudante de Engenharia de Software ambicioso e motivado a crescer junto com a tecnologia. Tenho maior foco em Python e C#, mas busco constantemente aprender novas tecnologias como SQL, JavaScript, css, entre outros.
+
+Tenho me dedicado atualmente ao aprimoramento de minhas habilidades em desenvolvimento Web Full Stack e .NET core, e me aventurando um pouco na criação de bots, RPA e Inteligência artificial em geral.
+
+Meu objetivo é ser desenvolvedor Web, Desktop e Mobile Full Stack, e busco constantemente este o mesmo por meio de minha carreira acadêmica e estudos independentes. 
+  
 ### [Send a message: ](https://github.com/Theus-Alves)[teoalves.dev@gmail.com](mailto:teoalves.dev@gmail.com)
