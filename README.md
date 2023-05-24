@@ -28,6 +28,6 @@
 
 Tenho me dedicado atualmente ao aprimoramento de minhas habilidades em desenvolvimento Web Full Stack e .NET core, e me aventurando um pouco na criação de bots, RPA e Inteligência artificial em geral.
 
-Meu objetivo é ser desenvolvedor Web, Desktop e Mobile Full Stack, e busco constantemente este o mesmo por meio de minha carreira acadêmica e estudos independentes. 
+Meu objetivo é ser desenvolvedor Web, Desktop e Mobile Full Stack, e busco constantemente o mesmo por meio de minha carreira acadêmica e estudos independentes. 
   
 ### [Send a message: ](https://github.com/Theus-Alves)[teoalves.dev@gmail.com](mailto:teoalves.dev@gmail.com)
