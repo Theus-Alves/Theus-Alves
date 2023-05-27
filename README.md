@@ -30,10 +30,14 @@
 
 <h3 align="left">About:</h3>
 <p align="left">
-  Olá :) sou um estudante de Engenharia de Software ambicioso e motivado a crescer junto com a tecnologia. Tenho maior foco em Python e C#, mas busco constantemente aprender novas tecnologias como SQL, JavaScript, css, entre outros.
+  Graduando em Engenharia de Software, ambicioso em aprender e melhorar a cada dia...
 
-Tenho me dedicado atualmente ao aprimoramento de minhas habilidades em desenvolvimento Web Full Stack e .NET core, e me aventurando um pouco na criação de bots, RPA e Inteligência artificial em geral.
+  Olá, sou Matheus Alves. Seja bem-vindo(a) ao meu perfil!  :)
 
-Meu objetivo é ser desenvolvedor Web, Desktop e Mobile Full Stack, e busco constantemente o mesmo por meio de minha carreira acadêmica e estudos independentes. 
-  
+  Iniciei minha trajetória acadêmica há um pouco mais de um ano e, desde então, tenho me esforçado diariamente para me tornar o melhor desenvolvedor que posso ser. Além dos estudos acadêmicos, dedico muitas horas do meu dia a estudos independentes e muita prática. Tenho um domínio maior em Python, seguido de C#, que são as duas linguagens nas quais concentro mais o meu trabalho.
+
+  Atualmente, estou estudando SQL, JavaScript e .NET Core, e buscando sempre oportunidades de participar de cursos que possam enriquecer ainda mais meu conhecimentos.   Tenho boas habilidades em HTML, CSS e Bootstrap, e já desenvolvi projetos relevantes nos quais pude aplicar todo o meu conhecimento e preparo. 
+
+  Fique à vontade para acessar o link das minhas redes no meu perfil. Será um prazer mostrar a você, um pouco mais do meu trabalho e minha paixão pela tecnologia.
+ 
 ### [Send a message: ](https://github.com/Theus-Alves)[teoalves.dev@gmail.com](mailto:teoalves.dev@gmail.com)
