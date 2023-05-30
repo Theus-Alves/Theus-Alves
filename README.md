@@ -30,11 +30,10 @@
 
 <h3 align="left">About:</h3>
 <p align="left">
-  Graduando em Engenharia de Software, ambicioso em aprender e melhorar a cada dia...
-
+ 
   Olá, sou Matheus Alves. Seja bem-vindo(a) ao meu perfil!  :)
 
-  Iniciei minha trajetória acadêmica há um pouco mais de um ano e, desde então, tenho me esforçado diariamente para me tornar o melhor desenvolvedor que posso ser. Além dos estudos acadêmicos, dedico muitas horas do meu dia a estudos independentes e muita prática. Tenho um domínio maior em Python, seguido de C#, que são as duas linguagens nas quais concentro mais o meu trabalho.
+  Iniciei minha trajetória acadêmica há um pouco mais de um ano, onde estou cursando Engenharia de Software. Desde então, tenho me esforçado diariamente para me tornar o melhor desenvolvedor que posso ser. Além dos estudos acadêmicos, dedico muitas horas do meu dia a estudos independentes e muita prática. Tenho um domínio maior em Python, seguido de C#, que são as duas linguagens nas quais concentro mais o meu trabalho.
 
   Atualmente, estou estudando SQL, JavaScript e .NET Core, e buscando sempre oportunidades de participar de cursos que possam enriquecer ainda mais meu conhecimentos.   Tenho boas habilidades em HTML, CSS e Bootstrap, e já desenvolvi projetos relevantes nos quais pude aplicar todo o meu conhecimento e preparo. 
 
