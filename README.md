@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Alves </h1>
 <h3 align="center">Python / C# Developer & Software Engineer Student</h3>
 
-- 🔭 I’m currently working on [Proj-Console-LanHause](https://github.com/Theus-Alves/Proj-Console-LanHause)
+- 🔭 I’m currently working on [Proj-Console-LanHouse](https://github.com/Theus-Alves/Proj-Console-LanHouse)
 
 - 🌱 I’m currently learning **SQL**
 
