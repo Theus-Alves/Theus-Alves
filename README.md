@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Alves </h1>
 <h3 align="center">Python / C# Developer & Software Engineer Student</h3>
 
-- 🔭 I’m currently working on [WEB_PortfolioResponsivo](https://github.com/Theus-Alves/WEB_PortfolioResponsivo.git)
+- 🔭 I’m currently working on [WEB_PortfolioResponsivo](https://github.com/Theus-Alves/Proj-Console-LanHause)
 
 - 🌱 I’m currently learning **SQL**
 
